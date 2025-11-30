@@ -1,0 +1,8 @@
+Flask
+Flask_SQLAlchemy
+PyMySQL
+python-dotenv
+PyJWT
+cryptography
+flask-restx
+requests
